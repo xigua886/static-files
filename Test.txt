@@ -1,2 +1,24 @@
-这是一个测试文本
-xxx=123
+{
+    "code": "200",
+    "msg": "请求成功",
+    "data": [
+        {
+            "id": "22",
+            "url": "https://w3one1.w3pei0uemtnewqiomhkeahhu.app",
+            "type": "付费资源",
+            "status": "video"
+        },
+        {
+            "id": "23",
+            "url": "https://w3pei2.w3pei0uemtnewqiomhkeahhu.app",
+            "type": "付费资源",
+            "status": "video"
+        },
+        {
+            "id": "26",
+            "url": "https://w2pei12.w3pei0uemtnewqiomhkeahhu.app",
+            "type": "免费资源",
+            "status": "video"
+        }
+    ]
+}
